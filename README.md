@@ -1,3 +1,3 @@
-# practice-user-management-operations-Chris-L
+# -practice-user-management-operations-chris-l
 
-Practiced ways to add data to an SQL table within a schema. Learned various ways to retrieve and manipulate data. The most difficult thing so far has been getting used to MySQL.
+I learned basics of SQL. Learning the language and syntax will be/is the most challenging. Joins and how tables tie together is also challenging. 
